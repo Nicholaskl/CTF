@@ -7,3 +7,6 @@
 * `Zsteg`
 * `stegsolve.jar`
 
+### Other Techniques
+
+* `<file> strings` to find any hidden information
